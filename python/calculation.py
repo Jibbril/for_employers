@@ -24,11 +24,16 @@ class Calculation:
 
     def interpret(self, statement):
         operators = {
+            'add': "+",
             'added': '+',
             'plus': '+',
+            'subtract': "-",
             'subtracted': '-',
             'minus': '-',
             'times': '*',
+            'multiply': '*',
+            'multiplied': '*',
+            'divide': "/",
             'divided': '/',
             'power': '^'
         }

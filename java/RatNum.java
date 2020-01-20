@@ -1,5 +1,5 @@
 // Assignment for a course at Chalmers. Builds a class called RatNum
-// that does basic math with ratioal numbers.
+// that does basic math with rational numbers.
 
 /**
 * Den här klassen hanterar grundläggande funktionalitet för 

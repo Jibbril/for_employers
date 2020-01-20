@@ -1,6 +1,6 @@
 # This program is a part of my pseudo-ai Winston. It gathers and organizes
 # stock data for a given stock and tick code for later analysis. Utilises 
-# several diffrent apis and io functionality. 
+# several different apis and io functionality. 
 
 from modules.winstock_analyzer import Winstock_Analyzer
 from alpha_vantage.timeseries import TimeSeries

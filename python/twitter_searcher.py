@@ -15,7 +15,7 @@ ROOT_PATH = Utils().globals.get('ROOT_PATH')
 
 class Twitter_Searcher:
     """
-    Module for Winston's financial abilities. 
+    Module for Winston. 
 
     Searches twitter via tweepy in a multitude of ways, gathers tweets and saves them as json.
     Access tweet texts via Twitter_Searcher().tweets or full tweets via .tweets_full
